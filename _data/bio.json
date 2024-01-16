@@ -1,43 +1,38 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Dan Vu",
     "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "picture": "https://github.com/danvu42.png",
+    "email": "danvu@hawaii.edu",
+    "phone": "",
+    "website": "https://Danvu42.github.io",
+    "summary": "I am studying for a B.S. degree in Electrical Engineering at the University of Hawaii at Manoa. I expect to graduate by the end of Spring, 2025.",
+    "location": { "address": "", "postalCode": "96826", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "github", "username": "Danvu42", "url": "http://github.com/Danvu42" },
+      { "network": "linkedin", "username": "danvu772", "url": "http://linkedin.com/in/danvu772" }
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "Web Development" },
+    { "name": "Rail Transportation" }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "keywords": [ "C", "C++", "Python", "Javascript", "Matlab", "Wordpress" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "keywords": [ "Arch Linux", "Git/GitHub", "g++" ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Electrical Engineering (expected Spring, 2025)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2021-09-01",
       "endDate": "Present",
       "courses": [
       ]
@@ -45,69 +40,41 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
+      "company": "Honolulu Authority for Rapid Transportation ",
+      "position": "Core Systems Engineering Student Aide",
+      "website": "https://honolulutransit.org",
+      "startDate": "2023-07-12",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Developed Ride Quality Assessment Tool to quantify mechanical vibration of train car, for HART's oversight testing",
+        "Analyzed and corrected track measurement data collected from HART's oversight testing",
+        "Wrote test procedures and test reports for various tests performed by HART"
       ]
     },
     {
       "company": "UH Information Technology Services",
       "position": "Help Desk Consultant",
       "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
+      "startDate": "2023-02-15",
+      "endDate": "2023-08-05",
       "summary": "",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
-      ]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
-      "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "Provided technical support to UH students and faculty",
+        "Assisted with configuring and troubleshooting UH software and platforms"
       ]
     },
     {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
+      "company": "Malama Junk Removal",
+      "position": "Web Developer",
+      "website": "https://malamajunkremoval.com",
+      "startDate": "2021-10-01",
+      "endDate": "2022-04-01",
       "summary": "",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Designed and developed website for Malama Junk Removal by developing custom WordPress theme using PHP and Javascript.",
+        "Established web presence and developed SEO strategies for growing local business"
       ]
-    }
-  ],
-  "awards": [
-    {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
     }
   ],
   "references": [
