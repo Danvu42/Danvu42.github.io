@@ -1,21 +1,21 @@
 ---
 layout: essay
 type: essay
-title: "Reflection on my introduction to Javascript"
+title: "Taking the time to ~~finally~~ formally understand Javascript"
 # All dates must be YYYY-MM-DD format!
 date: 2024-01-17
 published: true
 labels:
   - Software Engineering
 ---
-# Taking the time to formally learn Javascript
+<p align="center">
+    <img width="400px" src="https://www.freecodecamp.org/news/content/images/2021/04/photo-1550063873-ab792950096b.jpeg">
+</p>
 
-![freecodecampstockphoto](https://www.freecodecamp.org/news/content/images/2021/04/photo-1550063873-ab792950096b.jpeg)
-
-As someone who loves just getting into the weeds of just building things that are applicable instantly, I really am a fan of Javascript. Thanks to my Software Engineering I (ICS 314) class for forcing me to sit down and actually learn the syntax!
+As someone who loves just getting into the weeds of things, I'm kinda a fan of Javascript. Big thanks to my Software Engineering I (ICS 314) class for forcing me to sit down and actually learn the syntax!
 
 ### Origins
-I first started programming with python sometime in middle school, where I made little toy programs. I would never be able to progress in my programming knowledge past toy programs, so I stopped doing anything with Python up until much later when I started trying web development in the later years of high school. I started with FreeCodeCamp's html/css course, and I remember doing a small bit of the Javascript class. At that time, I genuinely had a huge interest in learning Javascript, simply because of how important it was in the entire web world. However, life and the college grind gets in the way, and I didn't find there was enough time to do much web development (especially when you choose a completely different major like Electrical Engineering).
+I first started programming with Python sometime in middle school, where I made little toy programs. I would never be able to progress in my programming knowledge past toy programs, so I stopped doing anything with Python up until much later when I started trying web development in the later years of high school. I started with FreeCodeCamp's html/css course, and I remember doing a small bit of the Javascript class. At that time, I genuinely had a huge interest in learning Javascript, simply because of how important it was in the entire web world. However, life and the college grind gets in the way, and I didn't find there was enough time to do much web development (especially when you choose a completely different major like Electrical Engineering).
 
 ### What is it about Javascript?
 The point is, I didn't get into Javascript for any other reason than to actually apply it to real life apps and tools. But I can't just start hacking away a half-working mobile app that runs slower than a Minecraft redstone computer. It's great to have the drive to just "YOLO" and start creating cool things, but it's also important to take a second and learn important things such as the way data is passed throughout the web. This in mind, I think it's great that my first software engineering class started with a pretty long introduction to the basics of Javascript. Before learning anything to do with apps and real applications, it's important to really take the time to learn the language that drives it all.
