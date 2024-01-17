@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Taking the time to ~~finally~~ formally understand Javascript"
+title: "Taking the time to (finally) formally understand Javascript"
 # All dates must be YYYY-MM-DD format!
 date: 2024-01-17
 published: true
@@ -9,7 +9,7 @@ labels:
   - Software Engineering
 ---
 <p align="center">
-    <img width="400px" src="https://www.freecodecamp.org/news/content/images/2021/04/photo-1550063873-ab792950096b.jpeg">
+    <img width="700px" src="https://www.freecodecamp.org/news/content/images/2021/04/photo-1550063873-ab792950096b.jpeg">
 </p>
 
 As someone who loves just getting into the weeds of things, I'm kinda a fan of Javascript. Big thanks to my Software Engineering I (ICS 314) class for forcing me to sit down and actually learn the syntax!
