@@ -24,7 +24,7 @@
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "Arch Linux", "Git/GitHub", "g++" ]
+      "keywords": [ "Arch Linux", "Windows", "Git/GitHub", "g++" ]
     }
   ],
   "education": [
