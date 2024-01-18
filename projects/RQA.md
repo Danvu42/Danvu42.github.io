@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/cotton/cotton-square.png
+image: "https://media.licdn.com/dms/image/D562DAQEMdRhW3ZH1mg/profile-treasury-image-shrink_800_800/0/1695032972400?e=1706144400&v=beta&t=e1kQRjYOstYrIsDDUCT4dl0zxFJpHobpDQJ6wHpUVVQ"
 title: "Ride Quality Assessment"
 date: 2023
 published: true
@@ -11,8 +11,9 @@ labels:
     - Python
 summary: "Ride Quality Assessment Tool to quantify mechanical vibration of train car"
 ---
-
-<img class="img-fluid" src="https://media.licdn.com/dms/image/D562DAQEMdRhW3ZH1mg/profile-treasury-image-shrink_800_800/0/1695032972400?e=1706144400&v=beta&t=e1kQRjYOstYrIsDDUCT4dl0zxFJpHobpDQJ6wHpUVVQ">
+<p align="center">
+    <img width="700px" class="img-fluid" src="https://media.licdn.com/dms/image/D562DAQEMdRhW3ZH1mg/profile-treasury-image-shrink_800_800/0/1695032972400?e=1706144400&v=beta&t=e1kQRjYOstYrIsDDUCT4dl0zxFJpHobpDQJ6wHpUVVQ">
+</p>
 
 The Ride Quality Assessment project was a tool developed during my internship at HART. It was designed to quantify the mechanical vibration experienced within a Skyline train car. 
 
