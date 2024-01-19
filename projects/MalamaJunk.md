@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/RQA/RQAThumbnail.png
+image: img/RQA/MalamaThumb.png
 title: "Malama Junk Removal"
 date: 2022
 published: true
@@ -12,7 +12,7 @@ labels:
 summary: "A website and established web presence for a local Maui business"
 ---
 <p align="center">
-
+<img src="../img/RQA/MalamaSplash.png">
 </p>
 
 ### About
