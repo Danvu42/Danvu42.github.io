@@ -12,7 +12,7 @@ labels:
 summary: "A website and established web presence for a local Maui business"
 ---
 <p align="center">
-<img src="../img/RQA/MalamaSplash.png">
+    <img width="800px" src="../img/RQA/MalamaSplash.png" class="img-thumbnail">
 </p>
 
 ### About
