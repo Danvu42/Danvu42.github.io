@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/RQA/RQAThumbnail.png
+image: img/RQA/commsThumbnail.png
 title: "HART Comms App"
 date: 2023
 published: true
