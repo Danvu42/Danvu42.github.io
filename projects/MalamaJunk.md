@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/RQA/MalamaThumb.png
+image: img/RQA/MalamaJunkRemoval.png
 title: "Malama Junk Removal"
 date: 2022
 published: true
