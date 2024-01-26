@@ -12,7 +12,7 @@ labels:
 summary: "Ride Quality Assessment Tool to quantify mechanical vibration of train car"
 ---
 <p align="center">
-    <img width="700px" class="img-fluid" src="https://media.licdn.com/dms/image/D562DAQEMdRhW3ZH1mg/profile-treasury-image-shrink_800_800/0/1695032972400?e=1706144400&v=beta&t=e1kQRjYOstYrIsDDUCT4dl0zxFJpHobpDQJ6wHpUVVQ">
+    <img width="700px" class="img-fluid" src="../img/RQA/RQA.jpg">
 </p>
 
 ### About
