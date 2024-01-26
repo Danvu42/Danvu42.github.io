@@ -4,7 +4,7 @@ type: essay
 title: "[URGENT]how to intsall arch!! plese help me"
 # All dates must be YYYY-MM-DD format!
 date: 2024-01-25
-published: false
+published: true
 labels:
   - Software Engineering
 ---
