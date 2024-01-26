@@ -22,12 +22,9 @@ The huge point is, there's good questions and bad questions. Here's some example
 ## Bad Question
 
 The [question](https://stackoverflow.com/questions/77884594/80-bits-convert-bigdecimal) is so short that I could even quote it in this blog directly:
-<blockquote>
-<b>80-bits convert Bigdecimal</b>
 
-How to convert the 80 bit extended precision stream of IEEE754 specification into Bigdecimal
-
-I have reviewed a large amount of data, but my ability is limited and there is no good solution, so I have no way to start,please help me,
+><b>80-bits convert Bigdecimal</b> <br><br>
+>How to convert the 80 bit extended precision stream of IEEE754 specification into Bigdecimal <br><br> I have reviewed a large amount of data, but my ability is limited and there is no good solution, so I have no way to start,please help me,
 </blockquote>
 
 To start, the question is extremely short, since the OP asks a very straightforward question. This is definitely a question that the OP could find out himself if he looked into the question deeper (just google it). In addition to that, OP does not provide any information about what he has done to try to figure out the question. He "reviewed a large amount of data", but it is extremely unclear what he has reviewed. To add icing on the cake, "please help me" is very sloppily appended to the end of the question, and it provides to value to it whatsoever. This is a textbook example of a bad question, especially after reading Eric Raymond's essay ["How to ask questions the smart way"](http://www.catb.org/esr/faqs/smart-questions.html).
