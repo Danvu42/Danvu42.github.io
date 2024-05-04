@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Quick meteor templates"
+title: "Design patterns"
 # All dates must be YYYY-MM-DD format!
 date: 2024-02-21
 published: true
