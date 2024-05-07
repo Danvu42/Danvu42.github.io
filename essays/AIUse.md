@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Use of AI in ICS 314"
+title: "Will AI destroy education as we know it?"
 # All dates must be YYYY-MM-DD format!
 date: 2024-05-06
 published: true
@@ -53,32 +53,69 @@ I have used AI in class this semester in the following areas:
       - I actually never asked or answered anything in smart-questions in the Discord (besides asking one clarifying question), and therefore, had absolutely no opportunity to use AI in this task. In asking my clarifying question in response to smart question, I never asked AI to help me ask the clarifying question.
 
   9. Coding example e.g. “give an example of using Underscore .pluck”
-      - As mentioned under the in class WOD section, I actually used ChatGPT to give several examples of the use of several Underscore functions. Specifically, I asked ChatGPT to provide coding examples for use in the Javascript 3 
+      - As mentioned under the in class WOD section, I actually used ChatGPT to give several examples of the use of several Underscore functions. Specifically, I asked ChatGPT to provide coding examples for use in the Javascript 3 in person WOD.
 
   10. Explaining code
+      - I never used AI tools in any tasks related to explaining code, since most code explanations and concepts that I was exposed to was already covered in solutions introduced throughout the different modules throughout ICS 314.
 
   11. Writing code
+      - I used ChatGPT to write code in the final project, since I needed a quick implementation for the rating system in my Manoa rating final project. Specifically, I asked ChatGPT how to convert a star input system into a star display system.
 
   12. Documenting code
+      - The main place that I documented code was contained in the final project of ICS 314. In this final project, I never employed the use of AI to document the code because all of the explanations of the code and all of the progress explained was extremely specific to plans outlining the overall system design. Because of these very specific ideas for implementing the overall project, I never used AI tools, since they would not be able to grasp the overall idea like the members would.
 
   13. Quality assurance 
+      - For quality assurance for the Javascript 3 WOD, I used ChatGPT to make sure my code was quality and usable. In other quality assurance aspects in ICS314 such as in the final project, I never used AI. I made a personal choice to write test cases manually in the final project, since I wanted to have full control over what I wanted to test.
 
   14. Other uses in ICS 314 not listed above
+      - The above uses covered all of the uses of AI throughout all of ICS 314. In general, I used AI very sparingly throughout ICS 314, using it to do some basic examples and to write/debug very small algorithms.
 
 
 ### III. Impact on Learning and Understanding:
 
+AI has generally only affected my learning and understanding of the ICS 314 material in a positive way. This is because I only used it to make small changes to some simple passages of code required of me for the WODs or in the final project. I used ChatGPT for writing notes/examples for Javascript 3, which was mostly done to save time in writing the notes for reference. My use of AI in actual development was only limited to very small portions of the overall project. In my use of AI in the rating system, there was really only one algorithm that ChatGPT developed for the rating system. For the overall system design and feature implementation of the final project in ICS 314, I manually wrote the code. 
+
+Since the overall goal of ICS 314 was to get a well rounded experience on developing full stack software, my limited use of ChatGPT in small algorithms has not made any effect on the overall takeaway from my experience of ICS 314. In terms of the things I expected to take away from ICS 314, I experienced it without any AI tools.
+
 
 ### IV. Practical Applications:
+
+Outside of ICS 314, AI tools have many types of applications in many different contexts. In one instance, I have personally used AI tools in my programming tasks in my internship. In my development of the ride quality assessment and in my comms inspection app in my internship at HART, I used Microsoft's Copilot to debug Matlab, Python, and Javascript code. For all of these internship tasks, there was always a larger system design required out of the projects, which AI tools could not entirely grasp. This is why I mainly only used AI tools to debug code and give explanations. I would not use AI tools in anything of wider scope.
+
+AI tools are extremely powerful and very capable, but they are still limited in their use cases. For example, AI is still unable to have complete context of a development environment. Because of this limitation, AI is severely limited in troubleshooting problems that may span several files. Many development projects exist within very specialized environments that are unable to be completely contexualized by AI, which is a major limitation.
+
+For basic scripts and algorithm assistance, AI is extremely powerful. GitHub Copilot is able to implement many powerful algorithms and functions, since it understands the context of code and can understand certain requirements laid out by developers.
 
 
 ### V. Challenges and Opportunities:
 
+There are several challenges that AI has to face in helping with education in ICS 314. For one, there is a lack of ability for AI to assist with any problems related to development environments. Whenever problems arise for the use of the Meteor framework, AI is not able to completely understand the full system and all of the factors of the framework on the local system. 
+
+As stated previously, AI can only help in education when it comes to smaller scale algorithms or scripts. Because ICS 314 is in large part dealing with development environments, AI tools are also quite limited in assisting students in the course.
+
+In the future, AI can be further integrated in supporting students education by providing students more examples for good use cases for AI in help for the course. This course could also integrate AI more by expecting more and more use for AI by students, and should design the curriculum accordingly. This could help focus the learning towards more core aspects of Software Engineering.
+
 
 ### VI. Comparative Analysis:
+
+AI has definitely changed the playing game in terms of education and teaching methods. For example, AI can have the role of de-emphasizing the raw skills in algorithm and script development. However this de-emphasizing of these skills can be an opportunity for teacher to re-emphasize and reinforce more skills in broader software development. 
+
+AI has also changed the writing aspect of essays. When AI is allowed in writing essays, students could fall into the trap of using LLMs to completely write their essays. This could be a negative point compared to previous traditional methods of simply manually writing all essays.
+
 
 
 ### VII. Future Considerations:
 
+AI has plenty of opportunities to completely transform software engineering education as we know it. For one, it has been a great opportunity to get a personal code explainer. LLMs can be a great way for students to get acccess to an extremely skilled, knowledgable person (being?) for coding assignments. This requires less need for humans to have to answer every single concern, question, and tutoring session that software engineering students may have.
+
+An area of improvement in AI could be more specialized AI tools aimed towards teaching. Currrent LLMs can both answer and explain pieces of code. However, teaching AI tools could hypothetically only be designed to answer questions and give explanations, but not give explicit answers.
+
 
 ### VIII. Conclusion:
+
+In all, many aspects of education have been completely affected and transformed by the emergence of AI tools. From documentation, to code explanations, AI has been a very powerful tool for students and teachers to quickly complete many software related tasks. In ICS 314, I have had some experience using AI in an educational context with the goal of saving time and focusing more on critical goals related to the software engineering learning goals of ICS 314. 
+
+As AI continues to grow in the emerging AI age, we need to find more ways to aid our learning experiences and education in general through the use of AI tools. This can be done by expecting the use of AI by students, and to work with AI's emergence instead of fighting against it. In addition to this, educators may need to start de-emphasizing specific areas that can be quickly automated through AI, and emphasize more things that AI will have a harder time attacking.
+
+AI is super powerful and can really help in so many aspects of education, but trust me, it can be extremely limited. Actually trying to use AI to do many educational tasks has made me realize that there are still so many skills in the tech world that AI will have a hard time trying to tackle.
+
