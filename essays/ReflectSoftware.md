@@ -1,36 +1,18 @@
 ---
 layout: essay
 type: essay
-title: "Will AI destroy education as we know it?"
+title: "Am I really ready for the world?"
 # All dates must be YYYY-MM-DD format!
 date: 2024-05-08
-published: false
+published: true
 labels:
   - Software Engineering
   - AI
 ---
 
-Now that you are almost done with this class, I would like you to write on last essay that summarizes what you’ve learned about software engineering.
-
-Because the technology stack for this class is designed for the creation of web applications, some students think this class is simply about web application development. Of course, web application development is a skill you’ve acquired in this class, but the more fundamental goal of this class is for you to acquire experience with fundamental software engineering concepts including:
-
-    Open Source Software Development
-    Configuration Management
-    Functional Programming
-    Development Environments
-    Coding Standards
-    User Interface Frameworks
-    Agile Project Management
-    Design Patterns
-    Ethics in Software Engineering
-
-For this essay, reflect on what you learned about software engineering in general during this course, by taking two or three of these topics and discussing what they mean beyond web application development. For example, you learned about a style of Agile Project Management called Issue Driven Project Management. Could you see yourself using that project management style for a project not involving web applications? If so, then discuss what Agile Project Management is, what Issue Driven Project Management is, and how you could see yourself applying it to different project contexts.
-
-Be careful and do not assume the reader understands what “configuration management” or “design patterns” or whatever means. You must define these terms if you are using them.
-
 ## What am I really getting into?
 
-Finishing up debugging my last testcase for my final project in ICS 314, I've become super surprised about how much time I spend in a flow state of fixing bugs and implementing features, very happy with the fact that I easily no mind to how huge the final iteration of the ~~spaghetti~~ codebase has actually gotten. The culmination of all the the core software engineering concepts was tested in this final project. We went through concepts like:
+Finishing up debugging my last testcase for my final project in ICS 314, I've become super surprised about how much time I spend in a flow state of fixing bugs and implementing features, very happy with the fact that I easily pay no mind to how huge the final iteration of the ~~spaghetti~~ codebase has actually gotten. The culmination of all the the core software engineering concepts was tested in this final project. We went through concepts like:
 
 - User interfaces
 - Version control
@@ -51,7 +33,21 @@ Fortunately, the systems and tools used to run these development environments ca
 
 For the most part, the meteor framework and node package manager does all the heavy lifing for a developer. Sure, it may be more complex to use these environments compared to running toy programs off a single javascript file or applet, but no modern web app runs off the development environments you'd find in an intro programming class. ICS 314 is meant to prepare students for realistic, practical development. One of the biggest things I've learned from this class is learning to grasp the fundamentals of setting up these complex frameworks and learning that there really is nothing scary about working with massive frameworks with so many moving parts
 
+### The power of open source
 
+In this class, we're expected to develop our skills in building practical software using a variety of standard technologies. When it comes to building apps, we don't just build everything from scratch. Much like when we join a company, we have to inherit a codebase with defined design patterns and structure. In this class, we use plenty of open source software to build out applications. Open source software includes any type of software that is freely able to be inspected, modified, and enhanced. These open source software can be freely copied and used in any project, and these projects are even allowed to make money from the project, not needing to give a single thing to previous developers of the open source software.
+
+Who would ever write code for free? In the realm of software, open source work is extremely commonplace. Developers have so much access to so many tools that make it relatively simple to create real, working applications. There is absolutely no way a single semester can teach us the intricacies of these top to bottom software frameworks, but there's definitely enough time to get good at working with what's already been invented. 
+
+I've always known about open source tools and software, but one thing this class has taught me was the mindset to use for the use of what's already been built. For example, in my final project, I considered coding an image selector from scratch, but decided that an open source solution was going to be quicker to implement, easier to understand, and probably (definitely) higher quality than what I was going to create.
+
+Open source software is incredibly useful and has definitely changed the game in this field. I'm really glad that there has been a great overview of the critical aspect of developing software that incorporates other peoples' work, so we don't have to reinvent the wheel.
+
+## Am I ready?
+
+Am I really ready for the outside world of software engineering after taking the class called "software engineering?" I'm actually not really that sure, since I've never really worked in a software engineer context. I do know that I've developed a lot of confidence in the realm of software engineering, and I think that I'm comfortable saying that I can build working software.
+
+I'm not saying I have the skills to build the next facebook, but I do think that this class has helped me develop the mindset needed for building such things. Even in my career, I hope to learn even more about these concepts I just learned about in this class. I hope that in my career in whatever industry I land up in, that I can remember the positive impact of ICS 314.
 
 
 
