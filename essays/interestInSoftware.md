@@ -1,10 +1,10 @@
 ---
 layout: essay
 type: essay
-title: "EE major in name, CS major by heart"
+title: "Why'd you switch your major?"
 # All dates must be YYYY-MM-DD format!
 date: 2024-01-18
-published: true
+published: false
 labels:
   - Software Engineering
 ---
